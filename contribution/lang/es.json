@@ -1254,17 +1254,17 @@
  	 	 	 	"eng": "Exp multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increase EXP you receive",
+ 	 	 	 	"trans": "Aumenta la EXP que recibes",
  	 	 	 	"eng": "Increase EXP you receive"
  	 	 	}
  	 	},
  	 	"btcMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "BTC multiplier",
+ 	 	 	 	"trans": "Multiplicador de BTC",
  	 	 	 	"eng": "BTC multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Increase Bitcoins you receive",
+ 	 	 	 	"trans": "Aumenta los Bitcoins que recibes",
  	 	 	 	"eng": "Increase Bitcoins you receive"
  	 	 	}
  	 	}
