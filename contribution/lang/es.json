@@ -804,27 +804,27 @@
  	 	 	 	"vars": [
  	 	 	 	 	"progressionId"
  	 	 	 	],
- 	 	 	 	"trans": "Progression-${progressionId}",
+ 	 	 	 	"trans": "Progresión-${progressionId}",
  	 	 	 	"eng": "Progression-${progressionId}"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]",
+ 	 	 	 	"trans": "Encuentra los 3 Fragmentos de Llave de cada una de las mazmorras de ${segmentDisplayName},\r\n                estos son usados para crear la llave a la siguiente zona.\r\n                Para crear la llave, ve a la terminal en [HUB]",
  	 	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
  	 	 	}
  	 	},
  	 	"random": {
  	 	 	"clearChallengeDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "dungeon warrior",
+ 	 	 	 	 	"trans": "Guerrero de mazmorra",
  	 	 	 	 	"eng": "dungeon warrior"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeonCoOp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "dungeon friends",
+ 	 	 	 	 	"trans": "Amigos de mazmorra",
  	 	 	 	 	"eng": "dungeon friends"
  	 	 	 	}
  	 	 	},
